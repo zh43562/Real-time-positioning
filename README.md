@@ -1,5 +1,10 @@
-###	<p align="center">&zwnj;分享DIY实时定位&zwnj;</p>
+#	<p align="center">&zwnj;分享DIY实时定位&zwnj;</p>
 
+## 注意：
+		连接设备的引脚对应
+			4G  tx=4, rx=15
+			GPS tx=17, rx=16
+			
 
   需要的设备：
   
