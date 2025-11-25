@@ -1,5 +1,11 @@
 #	<p align="center">&zwnj;分享DIY实时定位&zwnj;</p>
 
+## 效果展示
+
+	小区内路线
+	<img width="1080" height="2460" alt="微信图片_2025-11-25_124723_134" src="https://github.com/user-attachments/assets/0199fbf7-0eba-4934-b695-70f980890abb" />
+
+
 ## 注意：
 		连接设备的引脚对应，修改时同步修改ESP32侧代码
 			4G  tx=4, rx=15
